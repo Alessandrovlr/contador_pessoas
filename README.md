@@ -1,2 +1,2 @@
 # contador_pessoas
- repositorio primeiro app dart/flutter
+Aplicativo para contar pessoas, em dart!
